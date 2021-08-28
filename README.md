@@ -4,11 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently honing my JavaScript knowledge
+- 🔭 I’m currently honing my JavaScript skills
 - 🌱 I’m currently learning at Microverse: A remote software development instistute. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking for new challenges
+- 💬 Ask me about Music, Poetry and Food😍
+- 📫 How to reach me
+- GitHub: [@DannieMo](https://github.com/DannieMo)
+- LinkedIn: [Daniel Majesty Owiri](linkedin.com/in/daniel-majesty-owiri-85175616b)
+- 😄 Pronouns: ["He" , "Him"]
+- ⚡ Fun fact: ['I am a lover of good music. I sing in my spare time and play the keyboard and guitar']
