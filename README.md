@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**DannieMo/DannieMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me... 
 
 - 🔭 I’m currently honing my JavaScript skills
 - 🌱 I’m currently learning at Microverse: A remote software development institute. 
