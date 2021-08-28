@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Daniel Owiri! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="<iframe src="https://giphy.com/embed/PmYFRD9lCnFpkCOvCQ" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/proDente-fahrrad-zahnbande-prodente-PmYFRD9lCnFpkCOvCQ">via GIPHY</a></p>" width="230">
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
