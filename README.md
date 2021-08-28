@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently honing my JavaScript skills
-- 🌱 I’m currently learning at Microverse: A remote software development instistute. 
+- 🌱 I’m currently learning at Microverse: A remote software development institute. 
 - 👯 I’m looking for new challenges
 - 💬 Ask me about Music, Poetry and Food😍
 - 📫 How to reach me
